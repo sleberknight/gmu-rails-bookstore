@@ -1,3 +1,9 @@
+## This Repository is Archived
+
+This was a repository used while teaching a course on Rails circa 2014-15, and is now archived as of 2021-04-09. The original README is below.
+
+### Original README
+
 Sample application for developing slides for GMU Rails course.
 
 Steps:
